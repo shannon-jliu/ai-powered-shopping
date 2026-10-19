@@ -1,9 +1,5 @@
 # AI-Powered Grocery Shopping Assistant
 
-[![Course](https://img.shields.io/badge/Cornell-CS%204701%20Practicum%20in%20AI-red.svg)](https://www.cs.cornell.edu/)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Hardware](https://img.shields.io/badge/Hardware-GoPro%20Hero%208%20%7C%20Apple%20Silicon%20M3-orange.svg)]()
-
 An egocentric, real-time multimodal AI assistant for grocery shopping. By combining wearable video (GoPro Hero 8) with open-vocabulary object detection (YOLO-World) and natural language recipe parsing, the assistant dynamically identifies required recipe ingredients on store shelves, filters transient false alarms via multi-frame temporal voting, and maintains a live shopping checklist.
 
 ---

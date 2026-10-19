@@ -60,5 +60,6 @@ runs/
 
 # Temporary / test scratchpads
 scratch/
+.mvp_backup/
 test_*.jpg
 camera_*_test.jpg
